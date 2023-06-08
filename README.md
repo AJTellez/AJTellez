@@ -1,4 +1,4 @@
-<h1>Hi, I'm Antonio! Aspiring Cybersecurity Analyst and Software Engineer </a></h1>
+<h1>Hi, I'm Antonio! Aspiring Cybersecurity Professional and Software Engineer </a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 

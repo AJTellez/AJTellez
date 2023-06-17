@@ -1,4 +1,6 @@
-<h1>Hi, I'm Antonio! Aspiring Cybersecurity Professional and Software Engineer </a></h1>
+![](https://i.imgur.com/jpZH1Fh.png)
+<h1>                                                   Greeting, I'm Antonio!
+</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 

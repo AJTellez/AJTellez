@@ -1,5 +1,5 @@
-![](https://i.imgur.com/jpZH1Fh.png)
-<h1>                                                   Greeting, I'm Antonio!
+![](https://i.imgur.com/ztCjtE8.png)
+<h1> Greeting, I'm Antonio!
 </a></h1>
 
 <h2>👨‍💻 My Projects:</h2>

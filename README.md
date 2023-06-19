@@ -1,5 +1,7 @@
 ![](https://i.imgur.com/ztCjtE8.png)
-<h1> Greeting, I'm Antonio!
+<h1> <p align="center">
+  Welcome, I'm Antonio!</p><br />
+ <p align="center"> Thank you for taking the time to visit my GitHub profile. I have some exciting projects in the pipeline, and I am eager to share them with you on this platform. <br />
 </a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
